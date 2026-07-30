@@ -17,9 +17,6 @@ I write code.<br>It tests my emotional stability.<br>We call it teamwork.
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
 ---
 [![](https://komarev.com/ghpvc/?username=Farah-Belghith2710&icon=0&color=0)](https://visitcount.itsvg.in)
 
