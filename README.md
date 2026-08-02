@@ -1,5 +1,4 @@
 # Hello, I'm Farah Belghith
-# About Me:
 I write code.<br>It tests my emotional stability.<br>We call it teamwork.
 
 ## Socials:
