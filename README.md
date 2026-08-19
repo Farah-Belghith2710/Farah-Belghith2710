@@ -1,5 +1,4 @@
 # Hello, I'm Farah Belghith
-I write code.<br>It tests my emotional stability.<br>We call it teamwork.
 
 ## Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farah.belghith200327@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farah-belghith-ab69b42a5/)
